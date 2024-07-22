@@ -53,6 +53,10 @@
 
         ![alt text](./img/rds_01.png)
 
+ - ** 3.5 RDS만들기 전에 아래와 같이 보안그룹 생성
+   ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/07a76c6b-33a9-4cc8-9e91-35070c592965/50351f1f-e7d8-471b-889b-38b544307f23/Untitled.png)
+   ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/07a76c6b-33a9-4cc8-9e91-35070c592965/ca8ec103-e514-4945-9afd-363207047bef/Untitled.png) 
+
 ### 4. RDS 생성
 
 - **RDS 메인 콘솔 화면 → '데이터 베이스' 리소스 탭 → '데이터 베이스 생성' 버튼 클릭**
