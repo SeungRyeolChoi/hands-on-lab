@@ -356,8 +356,8 @@
     chmod 600 ~/.ssh/lab-edu-key-ec2.pem 
     ssh bastion
     ```
-    하지만 ssh bastion후 접속이 되질 않았음. 보안그룹 인바운드 편집에서 아래의 내용을 추가
-      ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/07a76c6b-33a9-4cc8-9e91-35070c592965/015cfda1-7e8b-4c9a-a200-cbb2f4bcf3e8/Untitled.png)
+        하지만 ssh bastion후 접속이 되질 않았음. 보안그룹 인바운드 편집에서 아래의 내용을 추가
+        ![Untitled](https://github.com/user-attachments/assets/ab393bf4-01d2-4e76-9fb0-3dc7c529ec64)
   
 - Web 서버 접속 테스트
 
