@@ -1,1 +1,1 @@
-pulic cloud
+Public cloud
