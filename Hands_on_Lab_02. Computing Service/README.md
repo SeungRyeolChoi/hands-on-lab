@@ -52,7 +52,7 @@
 
 - '인스턴스 시작' 버튼 클릭
 
-### 3. Putty 다운로드
+### 3. Putty 다운로드 (실제 실습 땐 mobaxterm으로 진행)
 
 - **다운로드 URL:** https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
