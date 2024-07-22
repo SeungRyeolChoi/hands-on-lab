@@ -141,7 +141,7 @@
     alter database trip_advisor owner to "user";
     ```
 
-- 'user' 계정 활용 'trip_advisor' 접속 테스트
+- 'user' 계정 활용 'trip_advisor' 접속 테스트 (exit후에 시행. 바로 위에서 확인해보면 user와 trip_advisor를 생성하였음)
 
     ```bash
     psql –U user –d trip_advisor –h {RDS_AURORA_ENDPOINT}   # 앞에서 메모장에 저장한 RDS Aurora 엔드포인 정보 입력
